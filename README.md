@@ -20,16 +20,19 @@ memungkinkan pengguna untuk mengubah nilai dari satu satuan atau skala ke yang l
 - Tampilan Standart
 ![alt text](https://github.com/AbdilbarAR/Aplikasi-Kalkulator-Sciencetific-NEATBEANS/blob/main/Readme%20asset/Screenshot%202024-06-01%20201713.png?raw=true)
 
+
+
+
+
+
+
 - Tampilan Sciencetific
-- .
 ![alt text](https://github.com/AbdilbarAR/Aplikasi-Kalkulator-Sciencetific-NEATBEANS/blob/main/Readme%20asset/Screenshot%202024-06-01%20201758.png?raw=true)
 
 - Tampilan Converter
-- .
 ![alt text](https://github.com/AbdilbarAR/Aplikasi-Kalkulator-Sciencetific-NEATBEANS/blob/main/Readme%20asset/Screenshot%202024-06-01%20201937.png?raw=true)
 
 - Tampilan Computer
-- .
 ![alt text](https://github.com/AbdilbarAR/Aplikasi-Kalkulator-Sciencetific-NEATBEANS/blob/main/Readme%20asset/Screenshot%202024-06-01%20202051.png?raw=true)
 
 Created by: Abdilbar Ainur Ridla
